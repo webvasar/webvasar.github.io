@@ -1813,7 +1813,10 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rC37RwVklT {
-  background-image: url("../../../assets/images/454073-1-1000x750.jpg");
+  padding-top: 120px;
+  padding-bottom: 75px;
+  background-color: #e4d295;
+  background: linear-gradient(45deg, #e4d295, #232323);
 }
 .cid-rC37RwVklT .media-container-row {
   flex-direction: row-reverse;
@@ -1838,6 +1841,7 @@ body {
 }
 .cid-rC37RwVklT H1 {
   color: #3ee976;
+  text-align: center;
 }
 .cid-rC37RwVklT H3 {
   color: #dddf33;
@@ -1845,6 +1849,9 @@ body {
 .cid-rC37RwVklT .mbr-text,
 .cid-rC37RwVklT .mbr-section-btn {
   color: #ffffff;
+}
+.cid-rC37RwVklT DIV {
+  text-align: left;
 }
 .cid-rC39V1DJK5 {
   padding-top: 60px;
