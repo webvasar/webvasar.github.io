@@ -37,10 +37,10 @@
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/shop-pic-128x27.png",
     "": "on",
-    "robotsSwitcher": false,
-    "sitemapSwitcher": true,
+    "robotsSwitcher": true,
+    "sitemapSwitcher": false,
     "sitemapSwitcherAuto": true,
-    "siteUrl": "https://webvasar.github.io/page17.html?fbclid=IwAR3SKyz4X0u91F8ddi0QmO7j0LRDMs3as-PrcHlZixE6eDyvGffNtwWJ5FU",
+    "siteUrl": "",
     "gdpr": {
       "colorText": "#a7a7a7",
       "colorLink": "#149dcc",
@@ -58,7 +58,8 @@
       "opacity": "99",
       "text": "Weboldalunk az alapvető működéshez szükséges cookie-kat használ. Szélesebb körű funkcionalitáshoz marketing jellegű cookie-kat engedélyezhet, amivel elfogadja az Adatkezelési tájékoztatóban foglaltakat<http://aszf.fogyaszto-barat.hu/documents/1005/20191015180409_aszf.pdf</a>.",
       "textButton": "ENGEDÉLYEZEM"
-    }
+    },
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n"
   },
   "pages": {
     "index.html": {
@@ -68,8 +69,7 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/728546-522x522.jpg"
+        "html_before": ""
       },
       "components": [
         {
