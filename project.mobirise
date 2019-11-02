@@ -44,7 +44,7 @@
     "google-analytics": "<!-- Facebook Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s)\n{if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};\nif(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\nn.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];\ns.parentNode.insertBefore(t,s)}(window,document,'script',\n'https://connect.facebook.net/en_US/fbevents.js');\n\nfbq('init', '111966219374127'); \nfbq('track', 'PageView');\n</script>\n<noscript>\n<img height=\"1\" width=\"1\" \nsrc=\"https://www.facebook.com/tr?id=111966219374127&ev=PageView\n&noscript=1\"/>\n</noscript>\n<!-- End Facebook Pixel Code -->\n",
     "cookiesAlert": {
       "customDialogSelector": false,
-      "colorText": "#424a4d",
+      "colorText": "#232323",
       "colorBg": "#eaeff1",
       "colorButton": "",
       "colorLink": "#424a4d",
@@ -53,7 +53,13 @@
       "text": "Weboldalunk az alapvető működéshez szükséges cookie-kat használ. Szélesebb körű funkcionalitáshoz marketing jellegű cookie-kat engedélyezhet, amivel elfogadja az Adatkezelési tájékoztatóban foglaltakat<http://aszf.fogyaszto-barat.hu/documents/1005/20191015180409_aszf.pdf</a>.",
       "textButton": "ENGEDÉLYEZEM"
     },
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "Weboldalunk az alapvető működéshez szükséges cookie-kat használ. Szélesebb körű funkcionalitáshoz marketing jellegű cookie-kat engedélyezhet, amivel elfogadja az Adatkezelési tájékoztatóban foglaltakat<http://aszf.fogyaszto-barat.hu/documents/1005/20191015180409_aszf.pdf</a>."
+    }
   },
   "pages": {
     "index.html": {
