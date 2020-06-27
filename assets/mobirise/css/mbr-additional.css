@@ -1260,7 +1260,7 @@ section.lazy-placeholder:after {
 .cid-s32nqgUmre {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #b2ccd2;
+  background-image: url("../../../assets/images/parakapu-9-630x473.jpg");
 }
 .cid-s32nqgUmre .mbr-figure {
   margin: 0 auto;
@@ -1286,7 +1286,7 @@ section.lazy-placeholder:after {
   color: #7f1933;
 }
 .cid-s32nqiaWPK {
-  background-image: url("../../../assets/images/6355861-640x640.jpg");
+  background-image: url("../../../assets/images/bonymetallicbuzzard-size-restricted.gif");
 }
 .cid-s32nqiaWPK h1 {
   color: #616161;
@@ -1300,12 +1300,13 @@ section.lazy-placeholder:after {
   font-style: italic;
 }
 .cid-s32nqiaWPK H1 {
-  color: #efefef;
+  color: #710967;
   text-align: center;
 }
 .cid-s32nqiaWPK .mbr-text,
 .cid-s32nqiaWPK .mbr-section-btn {
   color: #073b4c;
+  text-align: center;
 }
 .cid-s32nqiaWPK DIV {
   text-align: center;
