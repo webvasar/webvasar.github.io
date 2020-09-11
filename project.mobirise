@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Elektromos aroma diffúzor, illóolaj párologtató",
-    "currentPage": "page22.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -40,7 +40,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.4",
     "siteFonts": [],
-    "uniqCompNum": 210,
+    "uniqCompNum": 213,
     "versionPublish": "4.11.4",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/shop-pic-128x27.png",
@@ -48,7 +48,7 @@
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": true,
-    "siteUrl": "https://webvasar.hu/spd/173396/Elektromos-aroma-diffuzor-illoolaj-parologtato",
+    "siteUrl": "https://webvasar.hu/Ultrahangos-Illoolaj-Parologtato",
     "google-analytics": "<!-- Facebook Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s)\n{if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};\nif(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\nn.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];\ns.parentNode.insertBefore(t,s)}(window,document,'script',\n'https://connect.facebook.net/en_US/fbevents.js');\n\nfbq('init', '111966219374127'); \nfbq('track', 'PageView');\n</script>\n<noscript>\n<img height=\"1\" width=\"1\" \nsrc=\"https://www.facebook.com/tr?id=111966219374127&ev=PageView\n&noscript=1\"/>\n</noscript>\n<!-- End Facebook Pixel Code -->\n",
     "cookiesAlert": {
       "customDialogSelector": false,
@@ -119,7 +119,7 @@
             }
           },
           "_name": "header4",
-          "_customHTML": "<section class=\"header4\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Teljes képernyő\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Felső térköz\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Alsó térköz\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Cím\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Alcím\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Szöveg\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Gombok\" name=\"showButtons\" checked>\n        <input type=\"range\" inline title=\"Média mérete\" name=\"mediaSize\" min=\"10\" max=\"100\" step=\"5\" value=\"60\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Háttérkép\" value=\"../_images/background1.jpg\" parallax>\n            <input type=\"color\" title=\"Háttérszín\" value=\"#b2ccd2\" selected>\n            <input type=\"video\" title=\"Háttérvideó\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Fedés\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Fedőszín\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Átlátszóság\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"media-content col-md-10\">\n                <h1 class=\"mbr-section-title align-center mbr-white pb-3 mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">Ultrahangos Távirányítós Illóolaj Párologtató</h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-white mbr-light pb-3 mbr-fonts-style\" mbr-if=\"showSubTitle\" mbr-theme-style=\"display-2\">\n                    Gyönyörű mobil weboldalak\n                </h3>\n                <div class=\"mbr-text align-center mbr-white pb-3\">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-text, .mbr-section-btn\">MOST KEDVEZMÉNY -50%\n<br>15.999 Ft helyett <b>7.999&nbsp;Ft</b></p>\n                </div>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"https://form.jotformeu.com/92864802328362\" data-app-placeholder=\"Type Text\" target=\"_blank\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>MEGRENDELEM</a></div>\n            </div>\n            <div class=\"mbr-figure pt-5\">\n                <img src=\"@PROJECT_PATH@/assets/images/728546-522x522.jpg\" alt=\"Mobirise\" mbr-style=\"{'width': mediaSize + '%'}\" title>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"header4\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Teljes képernyő\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Felső térköz\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Alsó térköz\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Cím\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Alcím\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Szöveg\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Gombok\" name=\"showButtons\" checked>\n        <input type=\"range\" inline title=\"Média mérete\" name=\"mediaSize\" min=\"10\" max=\"100\" step=\"5\" value=\"95\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Háttérkép\" value=\"@PROJECT_PATH@/assets/images/7285461-300x300.jpg\" parallax>\n            <input type=\"color\" title=\"Háttérszín\" value=\"#879a9f\" selected>\n            <input type=\"video\" title=\"Háttérvideó\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Fedés\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Fedőszín\" name=\"overlayColor\" value=\"#968e85\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Átlátszóság\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"media-content col-md-10\">\n                <h1 class=\"mbr-section-title align-center mbr-white pb-3 mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">Ultrahangos Távirányítós Illóolaj Párologtató</h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-white mbr-light pb-3 mbr-fonts-style\" mbr-if=\"showSubTitle\" mbr-theme-style=\"display-2\">\n                    Gyönyörű mobil weboldalak\n                </h3>\n                <div class=\"mbr-text align-center mbr-white pb-3\">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-text, .mbr-section-btn\">MOST KEDVEZMÉNY -50%\n<br>15.999 Ft helyett <b>7.999&nbsp;Ft</b></p>\n                </div>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"https://form.jotformeu.com/92864802328362\" data-app-placeholder=\"Type Text\" target=\"_blank\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>MEGRENDELEM</a></div>\n            </div>\n            <div class=\"mbr-figure pt-5\">\n                <a href=\"https://webvasar.hu/Ultrahangos-Illoolaj-Parologtato\"><img src=\"@PROJECT_PATH@/assets/images/728546-522x522.jpg\" alt=\"Mobirise\" mbr-style=\"{'width': mediaSize + '%'}\" title></a>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rGEKzFxPff",
           "_anchor": "header4-1",
           "_protectedParams": [],
@@ -374,7 +374,7 @@
             }
           },
           "_name": "counters4",
-          "_customHTML": "<section class=\"counters4 counters\" group=\"Counters\" plugins=\"ViewportChecker\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Felső térköz\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Alsó térköz\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"checkbox\" title=\"Cím\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Alcím\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Blokk címe\" name=\"showTitles\" checked>\n        <input type=\"checkbox\" title=\"Szöveg\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Média\" name=\"showMedia\" checked>\n        <input type=\"range\" title=\"Média mérete\" inline name=\"mediaSize\" min=\"20\" max=\"60\" value=\"49\" condition=\"showMedia\">\n        <input type=\"checkbox\" title=\"Média a bal/jobb oldalon\" name=\"reverseContent\" condition=\"showMedia\" checked>\n        <select title=\"Kártyák száma\" name=\"cardsAmount\">\n           <option value=\"1\">1</option>\n           <option value=\"2\">2</option>\n           <option value=\"3\" selected>3</option>\n           <option value=\"4\">4</option>\n        </select>\n        <input type=\"range\" inline title=\"Number Size\" name=\"numberSize\" min=\"10\" max=\"50\" step=\"1\" value=\"32\">\n        <input type=\"color\" title=\"Border Color\" name=\"bordersColor\" value=\"#4f4943\">\n        <input type=\"checkbox\" title=\"Show Borders\" name=\"showBorders\" checked>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n           <input type=\"image\" title=\"Háttérkép\" value=\"../_images/background2.jpg\">\n           <input type=\"color\" title=\"Háttérszín\" value=\"#f9f295\" selected>\n           <input type=\"video\" title=\"Háttérvideó\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Fedés\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Fedőszín\" name=\"overlayColor\" value=\"#cccccc\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Átlátszóság\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container pt-4 mt-2\">\n        <h2 class=\"mbr-section-title pb-3 align-center mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">3 Egyértelmű Érv az illóolaj párologtató mellett:</h2>\n        <h3 class=\"mbr-section-subtitle pb-5 align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">\n            Reszponzív blokkok számlálókkal és médiával. \n        </h3>\n        <div mbr-class=\"{'media-container-row': showMedia,\n                         'row justify-content-center': !showTitle && !showSubtitle && !showMedia}\">\n            <div class=\"media-block m-auto\" mbr-style=\"{'width': mediaSize + '%'}\" mbr-if=\"showMedia\">\n                <div class=\"mbr-figure\">\n                    <img src=\"@PROJECT_PATH@/assets/images/02bf4e0d-76ba-442e-a865-69389fc780b5.-cr00300300-pt0-sx300-v1-300x300.jpg\" alt title>\n                </div>\n            </div>\n            <div class=\"cards-block\">\n                <div class=\"cards-container\">\n                    <div class=\"card px-3 align-left col-12\">\n                        <div class=\"panel-item p-4 d-flex align-items-start\">\n                            <div class=\"card-img pr-3\">\n                                <h3 class=\"img-text d-flex align-items-center justify-content-center\" data-app-selector=\".img-text\">\n                                    1\n                                </h3>\n                            </div>\n                            <div class=\"card-text\">\n                                <h4 class=\"mbr-content-title mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitles\">\n<div>Használata rendkívüli segítség</div></h4>\n                                <p class=\"mbr-content-text mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-content-text\">\n                                    Segít a megfázás, alvási problémák, stressz, a fejfájás tüneteinek kezelésében.</p>\n                            </div>\n                        </div>\n                    </div>\n                    <div class=\"card px-3 align-left col-12\" mbr-if=\"cardsAmount>1\">\n                        <div class=\"panel-item p-4 d-flex align-items-start\">\n                            <div class=\"card-img pr-3\">\n                                <h3 class=\"img-text d-flex align-items-center justify-content-center\" data-app-selector=\".img-text\">\n                                    2\n                                </h3>\n                            </div>\n                            <div class=\"card-text\">\n                                <h4 class=\"mbr-content-title mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitles\">Sokszínű Használhatóság</h4>\n                                <p class=\"mbr-content-text mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-content-text\">\n                                    Ez az elegáns készülék, hűsítő, párás nedvességet ad a levegőnek, ezzel megszüntetve a szárazságot. Hozzáadva pár csepp kedvenc illóolajat friss, tiszta, egészséges illatot varázsolhatunk a szobába.\n                                </p>\n                            </div>\n                        </div>\n                    </div>\n                    <div class=\"card px-3 align-left col-12\" mbr-if=\"cardsAmount>2\">\n                        <div class=\"panel-item p-4 d-flex align-items-start\">\n                            <div class=\"card-img pr-3\">\n                                <h3 class=\"img-text d-flex align-items-center justify-content-center\" data-app-selector=\".img-text\">\n                                    3\n                                </h3>\n                            </div>\n                            <div class=\"card-text\">\n                                <h4 class=\"mbr-content-title mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitles\">\n<div><br></div><div>Praktikus</div></h4>\n                                <p class=\"mbr-content-text mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-content-text\">Könnyen hordozható, így bárhová magaddal vihető, legyen az edzőterem, babaszoba, iroda vagy hálószoba.\n<br>Nem mellesleg szebbé teheted otthonod is e dekoratív készülékkel!&nbsp;</p>\n                            </div>\n                        </div>\n                    </div>\n                    <div class=\"card px-3 align-left col-12\" mbr-if=\"cardsAmount>3\">\n                        <div class=\"panel-item p-4 d-flex align-items-start\">\n                            <div class=\"card-img pr-3\">\n                                <h3 class=\"img-text d-flex align-items-center justify-content-center\" data-app-selector=\".img-text\">\n                                    4\n                                </h3>\n                            </div>\n                            <div class=\"card-texts\">\n                                <h4 class=\"mbr-content-title mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitles\">\n                                    We Are Passionate\n                                </h4>\n                                <p class=\"mbr-content-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-content-text\">\n                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae cupiditate rerum ipsum tempora vero.\n                                </p>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"counters4 counters\" group=\"Counters\" plugins=\"ViewportChecker\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Felső térköz\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Alsó térköz\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"checkbox\" title=\"Cím\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Alcím\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Blokk címe\" name=\"showTitles\" checked>\n        <input type=\"checkbox\" title=\"Szöveg\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Média\" name=\"showMedia\" checked>\n        <input type=\"range\" title=\"Média mérete\" inline name=\"mediaSize\" min=\"20\" max=\"60\" value=\"49\" condition=\"showMedia\">\n        <input type=\"checkbox\" title=\"Média a bal/jobb oldalon\" name=\"reverseContent\" condition=\"showMedia\" checked>\n        <select title=\"Kártyák száma\" name=\"cardsAmount\">\n           <option value=\"1\">1</option>\n           <option value=\"2\">2</option>\n           <option value=\"3\" selected>3</option>\n           <option value=\"4\">4</option>\n        </select>\n        <input type=\"range\" inline title=\"Number Size\" name=\"numberSize\" min=\"10\" max=\"50\" step=\"1\" value=\"32\">\n        <input type=\"color\" title=\"Border Color\" name=\"bordersColor\" value=\"#4f4943\">\n        <input type=\"checkbox\" title=\"Show Borders\" name=\"showBorders\" checked>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n           <input type=\"image\" title=\"Háttérkép\" value=\"../_images/background2.jpg\">\n           <input type=\"color\" title=\"Háttérszín\" value=\"#f9f295\" selected>\n           <input type=\"video\" title=\"Háttérvideó\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Fedés\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Fedőszín\" name=\"overlayColor\" value=\"#cccccc\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Átlátszóság\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container pt-4 mt-2\">\n        <h2 class=\"mbr-section-title pb-3 align-center mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">3 Egyértelmű Érv az illóolaj párologtató mellett:</h2>\n        <h3 class=\"mbr-section-subtitle pb-5 align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">\n            Reszponzív blokkok számlálókkal és médiával. \n        </h3>\n        <div mbr-class=\"{'media-container-row': showMedia,\n                         'row justify-content-center': !showTitle && !showSubtitle && !showMedia}\">\n            <div class=\"media-block m-auto\" mbr-style=\"{'width': mediaSize + '%'}\" mbr-if=\"showMedia\">\n                <div class=\"mbr-figure\">\n                    <img src=\"@PROJECT_PATH@/assets/images/7285461-300x300.jpg\" alt title>\n                </div>\n            </div>\n            <div class=\"cards-block\">\n                <div class=\"cards-container\">\n                    <div class=\"card px-3 align-left col-12\">\n                        <div class=\"panel-item p-4 d-flex align-items-start\">\n                            <div class=\"card-img pr-3\">\n                                <h3 class=\"img-text d-flex align-items-center justify-content-center\" data-app-selector=\".img-text\">\n                                    1\n                                </h3>\n                            </div>\n                            <div class=\"card-text\">\n                                <h4 class=\"mbr-content-title mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitles\">\n<div>Használata rendkívüli segítség</div></h4>\n                                <p class=\"mbr-content-text mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-content-text\">\n                                    Segít a megfázás, alvási problémák, stressz, a fejfájás tüneteinek kezelésében.</p>\n                            </div>\n                        </div>\n                    </div>\n                    <div class=\"card px-3 align-left col-12\" mbr-if=\"cardsAmount>1\">\n                        <div class=\"panel-item p-4 d-flex align-items-start\">\n                            <div class=\"card-img pr-3\">\n                                <h3 class=\"img-text d-flex align-items-center justify-content-center\" data-app-selector=\".img-text\">\n                                    2\n                                </h3>\n                            </div>\n                            <div class=\"card-text\">\n                                <h4 class=\"mbr-content-title mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitles\">Sokszínű Használhatóság</h4>\n                                <p class=\"mbr-content-text mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-content-text\">\n                                    Ez az elegáns készülék, hűsítő, párás nedvességet ad a levegőnek, ezzel megszüntetve a szárazságot. Hozzáadva pár csepp kedvenc illóolajat friss, tiszta, egészséges illatot varázsolhatunk a szobába.\n                                </p>\n                            </div>\n                        </div>\n                    </div>\n                    <div class=\"card px-3 align-left col-12\" mbr-if=\"cardsAmount>2\">\n                        <div class=\"panel-item p-4 d-flex align-items-start\">\n                            <div class=\"card-img pr-3\">\n                                <h3 class=\"img-text d-flex align-items-center justify-content-center\" data-app-selector=\".img-text\">\n                                    3\n                                </h3>\n                            </div>\n                            <div class=\"card-text\">\n                                <h4 class=\"mbr-content-title mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitles\">\n<div><br></div><div>Praktikus</div></h4>\n                                <p class=\"mbr-content-text mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-content-text\">Könnyen hordozható, így bárhová magaddal vihető, legyen az edzőterem, babaszoba, iroda vagy hálószoba.\n<br>Nem mellesleg szebbé teheted otthonod is e dekoratív készülékkel!&nbsp;</p>\n                            </div>\n                        </div>\n                    </div>\n                    <div class=\"card px-3 align-left col-12\" mbr-if=\"cardsAmount>3\">\n                        <div class=\"panel-item p-4 d-flex align-items-start\">\n                            <div class=\"card-img pr-3\">\n                                <h3 class=\"img-text d-flex align-items-center justify-content-center\" data-app-selector=\".img-text\">\n                                    4\n                                </h3>\n                            </div>\n                            <div class=\"card-texts\">\n                                <h4 class=\"mbr-content-title mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitles\">\n                                    We Are Passionate\n                                </h4>\n                                <p class=\"mbr-content-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-content-text\">\n                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae cupiditate rerum ipsum tempora vero.\n                                </p>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rGEMOSacpY",
           "_anchor": "counters4-5",
           "_protectedParams": [],
@@ -494,6 +494,46 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "background": "@bgColor",
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(0deg, @color2, @bgColor)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "image3",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Teljes szélesség\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Felső térköz\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Alsó térköz\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Szöveg\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Szélesség\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"80\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Háttérszín\" name=\"bgColor\" value=\"#0f7699\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Színátmenet\" name=\"gradientBg\" checked condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Szín 2\" name=\"color2\" value=\"#7f1933\" condition=\"gradientBg && fullWidth==false\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/lahpbe1xysk-v4nmqc0bka-400-169-large.gif\" width=\"1400\" alt=\"Mobirise\" title>\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                        Készíts csodálatos weboldalakat!\n                    </div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
+          "_cid": "sahofvbza8",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "image3-5w"
         }
       ]
     },
@@ -7728,434 +7768,6 @@
           "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Felső térköz\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Alsó térköz\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Háttérszín\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://form.jotform.com/202053842609351\" data-app-placeholder=\"Type Text\" target=\"_blank\">MEGRENDELEM</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "s5FtsD226V",
           "_anchor": "content8-50",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        }
-      ]
-    },
-    "page19.html": {
-      "settings": {
-        "title": "Felmosó",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 5
-      },
-      "components": [
-        {
-          "alias": false,
-          "_styles": {
-            "& when not (@fullScreen)": {
-              "padding-top": "(@paddingTop * 15px)",
-              "padding-bottom": "(@paddingBottom * 15px)"
-            },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            ".mbr-figure": {
-              "margin": "0 auto",
-              "width": "100%",
-              "display": "-webkit-flex",
-              "justify-content": "center",
-              "-webkit-justify-content": "center",
-              "img": {
-                "height": "100%",
-                "margin": "0 auto"
-              }
-            },
-            "@media (max-width: 991px)": {
-              ".mbr-figure": {
-                "img": {
-                  "width": "100% !important"
-                }
-              }
-            },
-            "H1": {
-              "color": "#cc2952"
-            },
-            ".mbr-text, .mbr-section-btn": {
-              "color": "#f7ed4a"
-            }
-          },
-          "_name": "header4",
-          "_customHTML": "<section class=\"header4\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Teljes képernyő\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Felső térköz\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Alsó térköz\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Cím\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Alcím\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Szöveg\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Gombok\" name=\"showButtons\" checked>\n        <input type=\"range\" inline title=\"Média mérete\" name=\"mediaSize\" min=\"10\" max=\"100\" step=\"5\" value=\"60\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Háttérkép\" value=\"../_images/background1.jpg\" parallax>\n            <input type=\"color\" title=\"Háttérszín\" value=\"#073b4c\" selected>\n            <input type=\"video\" title=\"Háttérvideó\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Fedés\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Fedőszín\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Átlátszóság\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"media-content col-md-10\">\n                <h1 class=\"mbr-section-title align-center mbr-white pb-3 mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">Gyors és Kényelmes Felmosó</h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-white mbr-light pb-3 mbr-fonts-style\" mbr-if=\"showSubTitle\" mbr-theme-style=\"display-2\">\n                    Gyönyörű mobil weboldalak\n                </h3>\n                <div class=\"mbr-text align-center mbr-white pb-3\">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-text, .mbr-section-btn\">MOST KEDVEZMÉNY -67%\n<br>13.500 Ft helyett <b>4</b>.<b>499&nbsp;Ft</b></p>\n                </div>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-warning\" href=\"https://form.jotform.com/202053842609351\" data-app-placeholder=\"Type Text\" target=\"_blank\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>MEGRENDELEM</a></div>\n            </div>\n            <div class=\"mbr-figure pt-5\">\n                <a href=\"https://form.jotform.com/202053842609351\"><img src=\"@PROJECT_PATH@/assets/images/8332701-600x600.jpg\" alt=\"Mobirise\" mbr-style=\"{'width': mediaSize + '%'}\" title></a>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "s5Fz6KK7tn",
-          "_anchor": "header4-51",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "& when not (@fullScreen)": {
-              "padding-top": "(@paddingTop * 15px)",
-              "padding-bottom": "(@paddingBottom * 15px)"
-            },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            "h1": {
-              "color": "#616161"
-            },
-            "h2, h3, p": {
-              "color": "#767676"
-            },
-            ".mbr-section-subtitle": {
-              "font-style": "italic"
-            },
-            "H1": {
-              "color": "#7f1933",
-              "text-align": "center"
-            },
-            ".mbr-text, .mbr-section-btn": {
-              "color": "#51de2e",
-              "text-align": "center"
-            },
-            "DIV": {
-              "text-align": "center"
-            }
-          },
-          "_name": "header9",
-          "_customHTML": "<section class=\"header9\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Teljes képernyő\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Felső térköz\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Alsó térköz\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Nyíl\" name=\"showArrow\">\n\n        <input type=\"checkbox\" name=\"halfSize\" title=\"Half Size\">\n        <select title=\"Align\" name=\"alignHalf\" condition=\"halfSize\">\n            <option value=\"1\" selected>Left</option>\n            <option value=\"2\">Center</option>\n            <option value=\"3\">Right</option>\n        </select>\n\n        <input type=\"checkbox\" title=\"Cím\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Alcím\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Szöveg\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Gombok\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Háttérkép\" value=\"@PROJECT_PATH@/assets/images/ks-healthyspraymop-1-600x600.jpeg\" selected parallax>\n            <input type=\"color\" title=\"Háttérszín\" value=\"#ffffff\">\n            <input type=\"video\" title=\"Háttérvideó\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Fedés\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Fedőszín\" name=\"overlayColor\" value=\"#465052\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Átlátszóság\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-column mbr-white\" mbr-class=\"{'col-lg-8 col-md-10': halfSize, 'm-auto': halfSize &&  alignHalf==2, 'ml-auto': halfSize &&  alignHalf==3}\">\n            <h1 class=\"mbr-section-title align-left mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">MOST KEDVEZMÉNY -67%\n<div>13.500 Ft helyett 4.499 Ft</div></h1>\n            <h3 class=\"mbr-section-subtitle align-left mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                Gyönyörű mobil weboldalak\n            </h3>\n            <p class=\"mbr-text align-left pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                Gyors és Kényelmes\n            </p>\n            <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-secondary\" href=\"https://form.jotform.com/202053842609351\" data-app-placeholder=\"Type Text\" target=\"_blank\">MEGRENDELEM</a></div>\n        </div>\n    </div>\n\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
-          "_cid": "s5Fz6M9s4R",
-          "_anchor": "header9-52",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            ".mbr-section-btn > *": {
-              "margin": "0"
-            },
-            "h4": {
-              "font-weight": "500"
-            },
-            "p": {
-              "color": "#232323"
-            },
-            ".aside-content": {
-              "-webkit-flex-basis": "100%",
-              "flex-basis": "100%",
-              "display": "flex",
-              "flex-direction": "column",
-              "justify-content": "center"
-            },
-            ".block-content": {
-              "display": "-webkit-flex",
-              "flex-direction": "column",
-              "-webkit-flex-direction": "column",
-              "word-break": "break-word"
-            },
-            ".media": {
-              "margin": "initial",
-              "align-items": "center",
-              "-webkit-align-items": "center"
-            },
-            ".mbr-figure": {
-              "align-self": "flex-start",
-              "-webkit-align-self": "flex-start",
-              "-webkit-flex-shrink": "0",
-              "flex-shrink": "0"
-            },
-            ".card-img": {
-              "padding-right": "2rem",
-              "width": "auto"
-            },
-            ".card-img span": {
-              "font-size": "72px",
-              "color": "#707070"
-            },
-            "@media (min-width: 992px)": {
-              ".mbr-figure": {
-                "padding-right": "4rem",
-                "& when (@reverseContent)": {
-                  "padding-right": "0",
-                  "padding-left": "4rem"
-                }
-              },
-              ".media-container-row": {
-                "& when (@reverseContent)": {
-                  "-webkit-flex-direction": "row-reverse"
-                }
-              }
-            },
-            "@media (max-width: 991px)": {
-              ".mbr-figure": {
-                "padding-right": "0",
-                "padding-bottom": "1rem",
-                "margin-bottom": "2rem",
-                "& when (@reverseContent)": {
-                  "padding-bottom": "0",
-                  "margin-bottom": "0",
-                  "padding-top": "1rem",
-                  "margin-top": "2rem"
-                }
-              },
-              ".media-container-row": {
-                "& when (@reverseContent)": {
-                  "-webkit-flex-direction": "column-reverse"
-                }
-              }
-            },
-            "@media (max-width: 300px)": {
-              ".card-img span": {
-                "font-size": "40px !important"
-              }
-            },
-            ".cost": {
-              "text-decoration": "line-through",
-              "color": "#767676"
-            },
-            "H2": {
-              "color": "#cc2952"
-            },
-            ".text1": {
-              "color": "#0f7699"
-            },
-            ".text2, .mbr-section-btn": {
-              "color": "#7f1933"
-            }
-          },
-          "_name": "services2",
-          "_customHTML": "<section class=\"services2\" group=\"Features\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n    <!---->\n    <mbr-parameters>\n        <input type=\"range\" inline title=\"Felső térköz\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Alsó térköz\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\">\n        <!---->\n        <input type=\"checkbox\" title=\"Cím\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Alcím\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle 2\" name=\"showSubtitle2\" checked>\n        <input type=\"checkbox\" title=\"Gombok\" name=\"showButtons\" checked>\n        <select title=\"Align Buttons:\" name=\"alignBtn\" condition=\"showButtons\">\n            <option value=\"1\" selected>Left</option>\n            <option value=\"2\">Center</option>\n            <option value=\"3\">Right</option>\n        </select>\n        <!---->\n        <input type=\"checkbox\" title=\"Média a bal/jobb oldalon\" name=\"reverseContent\">\n        <input type=\"range\" inline title=\"Média mérete\" name=\"mediaSize\" min=\"20\" max=\"80\" step=\"5\" value=\"50\">\n        <!---->\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Háttérkép\" value=\"../_images/background2.jpg\" parallax>\n            <input type=\"color\" title=\"Háttérszín\" value=\"#f9f9f9\" selected>\n            <input type=\"video\" title=\"Háttérvideó\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Fedés\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Fedőszín\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Átlátszóság\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n    <!---->\n    <!--Overlay-->\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <!--Container-->\n    <div class=\"container\">\n        <div class=\"col-md-12\">\n            <div class=\"media-container-row\">\n                <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                    <a href=\"https://form.jotform.com/202053842609351\"><img src=\"@PROJECT_PATH@/assets/images/ks-healthyspraymop-2-600x600.jpg\" alt=\"Mobirise\" title></a>\n                </div>\n                <div class=\"align-left aside-content\">\n                    <h2 class=\"mbr-title pt-2 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">Modern, elegáns, praktikus !</h2>\n                    <div class=\"mbr-section-text\">\n                        <p class=\"mbr-text text1 pt-2 mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".text1\">\n                            Nincs többé fárasztó felmosás távol lévő és folyamatosan magaddal cipelt vödörrel, elkoszolódott felmosóvízzel vagy annak állandó cseréjével!\n                        </p>\n                        <p class=\"mbr-text text2 pt-4 mbr-light mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubtitle2\" data-app-selector=\".text2, .mbr-section-btn\">&nbsp;7.499 Ft &nbsp;<font color=\"#767676\"><strike>13.500 Ft</strike></font></p>\n                    </div>\n                    <!--Btn-->\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn pt-3\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-class=\"{'align-left' : alignBtn == 1, 'align-center' : alignBtn == 2, 'align-right' : alignBtn == 3}\"><a href=\"https://form.jotform.com/202053842609351\" class=\"btn btn-warning-outline\" data-app-placeholder=\"Type Text\" target=\"_blank\">\n                            MEGRENDELEM</a></div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "s5Fz6MYu8S",
-          "_anchor": "services2-53",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#767676",
-              "font-weight": "300"
-            },
-            ".mbr-content-text": {
-              "color": "#073b4c",
-              "margin-bottom": "0"
-            },
-            ".card": {
-              "word-wrap": "break-word",
-              "flex-shrink": "0",
-              "-webkit-flex-shrink": "0"
-            },
-            ".img-text": {
-              "width": "(@numberSize * 2px)",
-              "height": "(@numberSize * 2px)",
-              "font-size": "~\"@{numberSize}px\"",
-              "border": "2px solid @bordersColor",
-              "border-radius": "50%",
-              "& when (@numberSize > 24px)": {
-                "@media (max-width: 991px)": {
-                  "width": "48px",
-                  "height": "48px",
-                  "font-size": "24px"
-                }
-              }
-            },
-            ".cards-block when (@showBorders)": {
-              "@media (min-width: 992px)": {
-                "border-top": "2px solid @bordersColor"
-              },
-              ".card": {
-                "border-bottom": "2px solid @bordersColor",
-                "border-radius": "0"
-              }
-            },
-            ".cards-container": {
-              "display": "flex",
-              "-webkit-flex-direction": "row",
-              "flex-direction": "row",
-              "-webkit-flex-wrap": "wrap",
-              "flex-wrap": "wrap",
-              "-webkit-justify-content": "center",
-              "justify-content": "center",
-              "word-break": "break-word"
-            },
-            ".media-block when (@showMedia)": {
-              "flex-shrink": "0",
-              "-webkit-flex-shrink": "0",
-              "@media (min-width: 992px)": {
-                "& when (@reverseContent)": {
-                  "padding-left": "2rem"
-                },
-                "& when not (@reverseContent)": {
-                  "padding-right": "2rem"
-                }
-              }
-            },
-            ".cards-block": {
-              "flex-basis": "100%",
-              "-webkit-flex-basis": "100%"
-            },
-            "@media (max-width: 991px)": {
-              ".media-block": {
-                "flex-basis": "100%",
-                "-webkit-flex-basis": "100%",
-                "padding-left": "0",
-                "padding-bottom": "2rem"
-              }
-            },
-            ".media-container-row when (@reverseContent) and (@showMedia)": {
-              "-webkit-flex-direction": "row-reverse",
-              "flex-direction": "row-reverse"
-            },
-            ".mbr-section-title": {
-              "color": "#7f1933"
-            },
-            "H4": {
-              "color": "#7f1933"
-            }
-          },
-          "_name": "counters4",
-          "_customHTML": "<section class=\"counters4 counters\" group=\"Counters\" plugins=\"ViewportChecker\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Felső térköz\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Alsó térköz\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"checkbox\" title=\"Cím\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Alcím\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Blokk címe\" name=\"showTitles\" checked>\n        <input type=\"checkbox\" title=\"Szöveg\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Média\" name=\"showMedia\" checked>\n        <input type=\"range\" title=\"Média mérete\" inline name=\"mediaSize\" min=\"20\" max=\"60\" value=\"49\" condition=\"showMedia\">\n        <input type=\"checkbox\" title=\"Média a bal/jobb oldalon\" name=\"reverseContent\" condition=\"showMedia\" checked>\n        <select title=\"Kártyák száma\" name=\"cardsAmount\">\n           <option value=\"1\">1</option>\n           <option value=\"2\">2</option>\n           <option value=\"3\" selected>3</option>\n           <option value=\"4\">4</option>\n        </select>\n        <input type=\"range\" inline title=\"Number Size\" name=\"numberSize\" min=\"10\" max=\"50\" step=\"1\" value=\"32\">\n        <input type=\"color\" title=\"Border Color\" name=\"bordersColor\" value=\"#4f4943\">\n        <input type=\"checkbox\" title=\"Show Borders\" name=\"showBorders\" checked>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n           <input type=\"image\" title=\"Háttérkép\" value=\"../_images/background2.jpg\">\n           <input type=\"color\" title=\"Háttérszín\" value=\"#f9f295\" selected>\n           <input type=\"video\" title=\"Háttérvideó\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Fedés\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Fedőszín\" name=\"overlayColor\" value=\"#cccccc\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Átlátszóság\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container pt-4 mt-2\">\n        <h2 class=\"mbr-section-title pb-3 align-center mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">3 Egyértelmű Érv a Gyors és Kényelmes felmosó mellett:</h2>\n        <h3 class=\"mbr-section-subtitle pb-5 align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">\n            Reszponzív blokkok számlálókkal és médiával. \n        </h3>\n        <div mbr-class=\"{'media-container-row': showMedia,\n                         'row justify-content-center': !showTitle && !showSubtitle && !showMedia}\">\n            <div class=\"media-block m-auto\" mbr-style=\"{'width': mediaSize + '%'}\" mbr-if=\"showMedia\">\n                <div class=\"mbr-figure\">\n                    <a href=\"https://form.jotform.com/202053842609351\"><img src=\"@PROJECT_PATH@/assets/images/8332701-500x500.jpg\" alt title></a>\n                </div>\n            </div>\n            <div class=\"cards-block\">\n                <div class=\"cards-container\">\n                    <div class=\"card px-3 align-left col-12\">\n                        <div class=\"panel-item p-4 d-flex align-items-start\">\n                            <div class=\"card-img pr-3\">\n                                <h3 class=\"img-text d-flex align-items-center justify-content-center\" data-app-selector=\".img-text\">\n                                    1\n                                </h3>\n                            </div>\n                            <div class=\"card-text\">\n                                <h4 class=\"mbr-content-title mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitles\">\n<div>Használata rendkívüli segítség</div></h4>\n                                <p class=\"mbr-content-text mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-content-text\">\n                                    Higiénikus, nem maszatol, és megspórol neked egy csomó pluszmunkát.</p>\n                            </div>\n                        </div>\n                    </div>\n                    <div class=\"card px-3 align-left col-12\" mbr-if=\"cardsAmount>1\">\n                        <div class=\"panel-item p-4 d-flex align-items-start\">\n                            <div class=\"card-img pr-3\">\n                                <h3 class=\"img-text d-flex align-items-center justify-content-center\" data-app-selector=\".img-text\">\n                                    2\n                                </h3>\n                            </div>\n                            <div class=\"card-text\">\n                                <h4 class=\"mbr-content-title mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitles\">Sokszínű Használhatóság</h4>\n                                <p class=\"mbr-content-text mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-content-text\">\n                                    Bátran rábízhatod a legféltettebb padlóidat is, hiszen a Spray Mop padlótisztító alkalmas fapadló, linóleum vagy csempe tisztítására is.\n                                </p>\n                            </div>\n                        </div>\n                    </div>\n                    <div class=\"card px-3 align-left col-12\" mbr-if=\"cardsAmount>2\">\n                        <div class=\"panel-item p-4 d-flex align-items-start\">\n                            <div class=\"card-img pr-3\">\n                                <h3 class=\"img-text d-flex align-items-center justify-content-center\" data-app-selector=\".img-text\">\n                                    3\n                                </h3>\n                            </div>\n                            <div class=\"card-text\">\n                                <h4 class=\"mbr-content-title mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showTitles\">\n<div><br></div><div>Praktikus</div></h4>\n                                <p class=\"mbr-content-text mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-content-text\">A mikroszálas padlótörlő párnája elképesztő nedvszívó képességgel rendelkezik\n<br>Minden koszt felszed, és a padló a tisztítás után pillanatokon belül száraz lesz&nbsp;</p>\n                            </div>\n                        </div>\n                    </div>\n                    <div class=\"card px-3 align-left col-12\" mbr-if=\"cardsAmount>3\">\n                        <div class=\"panel-item p-4 d-flex align-items-start\">\n                            <div class=\"card-img pr-3\">\n                                <h3 class=\"img-text d-flex align-items-center justify-content-center\" data-app-selector=\".img-text\">\n                                    4\n                                </h3>\n                            </div>\n                            <div class=\"card-texts\">\n                                <h4 class=\"mbr-content-title mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitles\">\n                                    We Are Passionate\n                                </h4>\n                                <p class=\"mbr-content-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-content-text\">\n                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae cupiditate rerum ipsum tempora vero.\n                                </p>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "s5Fz6O6Kn8",
-          "_anchor": "counters4-54",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            "h3": {
-              "font-weight": "300"
-            },
-            ".card-img": {
-              "width": "initial",
-              ".mbr-iconfont": {
-                "font-size": "48px",
-                "padding-right": "1rem"
-              }
-            },
-            ".media-container-row": {
-              "word-wrap": "break-word",
-              "padding-bottom": "2rem",
-              "min-height": "100%"
-            },
-            ".media": {
-              "margin": "initial",
-              "align-items": "center",
-              "-webkit-align-items": "center"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#767676"
-            },
-            ".mbr-text": {
-              "color": "#767676"
-            },
-            ".media-container-column": {
-              "display": "-webkit-flex",
-              "flex-direction": "column",
-              "-webkit-flex-direction": "column",
-              "& when (@reverseContent)": {
-                "flex-direction": "column-reverse",
-                "-webkit-flex-direction": "column-reverse"
-              }
-            },
-            ".mbr-al-i-c": {
-              "align-items": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#7f1933"
-            },
-            ".card-title": {
-              "color": "#7f1933"
-            }
-          },
-          "_name": "features14",
-          "_customHTML": "<section class=\"features14\" group=\"Features\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Felső térköz\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Alsó térköz\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n\n        <input type=\"checkbox\" title=\"Cím\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Kártya cím\" name=\"showCardTitle\" checked>\n        <input type=\"checkbox\" title=\"Alcím\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Szöveg\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Ikonok\" name=\"showIcons\" checked>\n        <input type=\"checkbox\" title=\"Média lent/fent\" name=\"reverseContent\">\n\n       <input type=\"range\" inline title=\"Média mérete\" name=\"mediaSize\" min=\"10\" max=\"100\" step=\"1\" value=\"60\">\n\n        <select title=\"Oszlopok száma\" name=\"cardsAmount\">\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected>3</option>\n            <option value=\"4\">4</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Háttérkép\" value=\"../_images/background5.jpg\" parallax>\n            <input type=\"color\" title=\"Háttérszín\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Háttérvideó\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Fedés\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Fedőszín\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Átlátszóság\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container align-center\">\n        <h2 class=\"mbr-section-title pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">FELMOSÓ&nbsp;<br><b>MEGRENDELÉSE</b></h2>\n        <h3 class=\"mbr-section-subtitle pb-5 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\">\n            Kattints bármelyik szövegre vagy ikonra, hogy szerkeszd vagy megváltoztasd a stílusát. A blokk paraméterekkel ki-/bekapcsolhatsz szöveget vagy ikonokat és megváltoztathatod a média méretét vagy helyzetét.\n        </h3>\n        <div class=\"media-container-column\">\n            <div class=\"row justify-content-center\">\n                <div class=\"card p-4 col-12 col-md-6\" mbr-class=\"{'col-lg-3': cardsAmount == '4','col-lg-4': cardsAmount == '3', 'mbr-al-i-c': !showCardTitle}\">\n                    <div class=\"media pb-3\">\n                        <div class=\"card-img align-self-center\" mbr-if=\"showIcons\">\n                            <span mbr-icon class=\"mbr-iconfont mbri-edit\"></span>\n                        </div>\n                        <div class=\"media-body\">\n                            <h4 class=\"card-title py-2 align-left mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showCardTitle\" data-app-selector=\".card-title\">Űrlap Kitöltése</h4>\n                        </div>\n                    </div>                \n                    <div class=\"card-box align-left\">\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\">Töltsd ki a<b> MEGRENDELŐ lapot, majd kattints a\n</b><br><b>MEGRENDELEM</b> Gombra\n<br>Figyelj, hogy helyes adatokat adj meg! .\n                        </p>\n                    </div>\n                </div>\n\n                <div class=\"card p-4 col-12 col-md-6\" mbr-class=\"{'col-lg-3': cardsAmount == '4','col-lg-4': cardsAmount == '3', 'mbr-al-i-c': !showCardTitle}\">\n                <div class=\"media pb-3\">\n                    <div class=\"card-img align-self-center\" mbr-if=\"showIcons\">\n                        <span mbr-icon class=\"mbr-iconfont mbri-cart-full\"></span>\n                    </div>\n                    <div class=\"media-body\">\n                        <h4 class=\"card-title py-2 align-left mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showCardTitle\" data-app-selector=\".card-title, .card-img\">\n                                Kiszállítás\n                        </h4>\n                    </div>\n                </div>\n                    <div class=\"card-box align-left\">\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">Pár nap és Nálad a csomag!\n<br><b>A csomagod 3-5 Munkanap</b> Alatt érkezik Hozzád\n<br><b>A szállítás Díja: 1.280 Ft.\n</b><br>A kézbesítésről sms/e-mail-t kapsz a futárszolgálattól!&nbsp;</p>\n                    </div>\n                </div>\n\n                <div class=\"card p-4 col-12 col-md-6\" mbr-class=\"{'col-lg-3': cardsAmount == '4','col-lg-4': cardsAmount == '3', 'mbr-al-i-c': !showCardTitle}\" mbr-if=\"cardsAmount>2\">\n                <div class=\"media pb-3\">\n                    <div class=\"card-img align-self-center\" mbr-if=\"showIcons\">\n                        <span mbr-icon class=\"mbr-iconfont mbri-gift\"></span>\n                    </div>\n                    <div class=\"media-body\">\n                        <h4 class=\"card-title py-2 align-left mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showCardTitle\" data-app-selector=\".card-title, .card-img\">\n                            Csomagátvétel\n                        </h4>\n                    </div>\n                </div>\n                    <div class=\"card-box align-left\">\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                           Rendezd a számlát a futárszolgálatnál és Élvezd a termék használatát\n                        </p>\n                    </div>\n                </div>\n\n                <div class=\"card p-4 col-12 col-md-6\" mbr-class=\"{'col-lg-3': cardsAmount == '4','col-lg-4': cardsAmount == '3', 'mbr-al-i-c': !showCardTitle}\" mbr-if=\"cardsAmount>3\">\n                <div class=\"media pb-3\">\n                    <div class=\"card-img align-self-center\" mbr-if=\"showIcons\">\n                        <span mbr-icon class=\"mbri-sites mbr-iconfont\"></span>\n                    </div>\n                    <div class=\"media-body\">\n                        <h4 class=\"card-title py-2 align-left mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showCardTitle\" data-app-selector=\".card-title, .card-img\">\n                            Korlátlan számú webhely\n                        </h4>\n                    </div>\n                </div>\n                    <div class=\"card-box align-left\">\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">\n                           Mivel a Mobirise egy asztali alkalmazás, annyi webhelyet fejleszthetsz vele szabadon, amennyit csak szeretnél.\n                        </p>\n                    </div>\n                </div>\n            </div>\n            <div class=\"media-container-row image-row\">\n                <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                    <a href=\"https://webvasar.hu/Healthy-Spray-felmoso-Gyors-es-Kenyelmes\"><img src=\"@PROJECT_PATH@/assets/images/00f13b62959fc2fef2c03b8a52aae9da1-500x500.jpg\" alt=\"Mobirise\" title></a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "s5Fz6PdOQ9",
-          "_anchor": "features14-55",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            ".mbr-text": {
-              "color": "#767676",
-              "margin": "0",
-              "padding-top": "1.5rem"
-            },
-            "div.b": {
-              "padding-top": "2rem"
-            },
-            "H2": {
-              "color": "#7f1933"
-            }
-          },
-          "_name": "contacts2",
-          "_customHTML": "<section class=\"mbr-section contacts2\" group=\"Forms\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n    <!---->\n    <mbr-parameters>\n        <!---->\n        <input type=\"range\" inline title=\"Felső térköz\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"6\">\n        <input type=\"range\" inline title=\"Alsó térköz\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"6\">\n        <!---->\n        <input type=\"checkbox\" title=\"Cím\" name=\"showTitleSect\" checked>\n        <input type=\"checkbox\" title=\"Alcím\" name=\"showSubtitleSect\">\n        <!---->\n        <input type=\"checkbox\" title=\"Show Adress\" name=\"showAdress\">\n        <input type=\"checkbox\" title=\"Show Phone\" name=\"showPhone\" checked>\n        <input type=\"checkbox\" title=\"Show Mail\" name=\"showMail\" checked>\n        <!---->\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Háttérkép\" value=\"../_images/background3.jpg\" parallax>\n            <input type=\"color\" title=\"Háttérszín\" value=\"#55b4d4\" selected>\n            <input type=\"video\" title=\"Háttérvideó\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Fedés\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Fedőszín\" name=\"overlayColor\" value=\"#efefef\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Átlátszóság\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.9\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n    <!---->\n    <!--Overlay-->\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <!--Container-->\n    <div class=\"container\">\n        <div class=\"row\">\n            <!--Titles-->\n            <div class=\"title col-12\">\n                <h2 mbr-if=\"showTitleSect\" class=\"align-left mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                    ELÉRHETŐSÉGEINK:\n                </h2>\n                <h3 mbr-if=\"showSubtitleSect\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    Subtitle\n                </h3>\n            </div>\n            <div class=\"col-12\">\n                <div class=\"row justify-content-center\">\n                    <div class=\"col-12 col-md-4\" mbr-if=\"showAdress\">\n                        <div class=\"b b-adress\">\n                            <h5 class=\"align-left mbr-fonts-style m-0\" mbr-theme-style=\"display-5\">\n                                Address:\n                            </h5>\n                            <p class=\"mbr-text align-left mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">\n                                350 5th Ave, New York, NY 10118, USA\n                            </p>\n                        </div>\n                    </div>\n                    <div class=\"col-12 col-md-4\" mbr-if=\"showPhone\">\n                        <div class=\"b b-phone\">\n                            <h5 class=\"align-left mbr-fonts-style m-0\" mbr-theme-style=\"display-5\">\n                                Telefon:\n                            </h5>\n                            <p class=\"mbr-text align-left mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\">\n                                +36 70 3657353\n                            </p>\n                        </div>\n                    </div>\n                    <div class=\"col-12 col-md-4\" mbr-if=\"showMail\">\n                        <div class=\"b b-mail\">\n                            <h5 class=\"align-left mbr-fonts-style m-0\" mbr-theme-style=\"display-5\">\n                                E-mail:\n                            </h5>\n                            <p class=\"mbr-text align-left mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\">\n                                onlinewebvasar@gmail.com\n                            </p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "s5Fz6QxOGj",
-          "_anchor": "contacts2-56",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor"
-          },
-          "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Felső térköz\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Alsó térköz\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Háttérszín\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://webvasar.hu/Healthy-Spray-felmoso-Gyors-es-Kenyelmes\" data-app-placeholder=\"Type Text\" target=\"_blank\">MEGRENDELEM</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "s5Fz6RAc7U",
-          "_anchor": "content8-57",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
